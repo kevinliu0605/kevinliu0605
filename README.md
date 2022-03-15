@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Hanwen Liu 👋
 
-### I'm a graduated student from PSU EECS Class of 2021 🎓
+### I'm a undergraduated student from PSU EECS Class of 2021 🎓
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking for a great oppurtunity to collaborate with other people
