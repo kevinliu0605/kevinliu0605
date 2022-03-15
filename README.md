@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Hanwen Liu 👋
+## Hi there, I'm Hanwen Liu 👋
 
 ### I'm an undergraduated student from PSU EECS Class of 2021 🎓
 
