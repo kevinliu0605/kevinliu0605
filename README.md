@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking for a great oppurtunity to collaborate with other people
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to 💃 🏸️ 🎮 🎵 
 
 ### Connect with me:
 
