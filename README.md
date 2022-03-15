@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[!(./img/linkedin-light.svg)](https://www.linkedin.com/in/hanwen-liu-363114164#gh-light-mode-only)
-[!(./img/linkedin-dark.svg)](https://www.linkedin.com/in/hanwen-liu-363114164#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hanwen-liu-363114164#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hanwen-liu-363114164#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 #### Languages & Tools
