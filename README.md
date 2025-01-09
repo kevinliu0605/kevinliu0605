@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Hanwen Liu 👋
 
-### I'm an undergraduated student from PSU EECS Class of 2021 🎓
+### I'm currently a graduated student @ Stony Brook University 🎓
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking for a great oppurtunity to collaborate with other people
-- ⚡ Fun fact: I love to 💃 🏸️ 🎮 🎵 
+- 🌱 learning Machine Learning & Artificial Intelligence
+- 👯 I’m looking for a great opportunity to collaborate with other people
+- ⚡ Fun fact: I love to 💃 🏸️ 🎮 🎵
+- 📫 How to reach me: aidisheng880@gmail.com
 
 ### Connect with me:
 
